@@ -9,14 +9,14 @@
 
 ## Contact Me
 
-<a href="mailto:xsherryhe.dev@gmail.com" width="100" height="100">
-  <img src="./images/icons/email-red.svg" alt="Email" />
+<a href="mailto:xsherryhe.dev@gmail.com">
+  <img src="./images/icons/email-red.svg" alt="Email" width="50" height="50" />
 </a>
 <a href="https://www.linkedin.com/in/sherry-he-037942a7/">
-  <img src="images/icons/linkedin-red.svg" alt="LinkedIn">
+  <img src="images/icons/linkedin-red.svg" alt="LinkedIn" width="50" height="50" />
 </a>
 <a href="files/Sherry-He-Developer-Resume.pdf" download>
-  <img src="images/icons/resume.svg" alt="Resume">
+  <img src="images/icons/resume-red.svg" alt="Resume" width="50" height="50" />
 </a>
 
 
