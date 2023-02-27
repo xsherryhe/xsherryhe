@@ -1,4 +1,4 @@
-![Hi, I'm Sherry](./images/banner.png)
+[![Hi, I'm Sherry](./images/banner.png)](https://xsherryhe.github.io/)
 
 - I'm a developer whose interests lie in front-end and full-stack web development.
 - I have a background in education and linguistics. In these areas as well as in programming, I'm all about using research and systems thinking to piece together puzzles and solve problems.
@@ -6,19 +6,14 @@
 - I'm **actively looking to collaborate**! Get in touch if you:
   - Are looking for contributors for your project
   - Have an idea, suggestion, or bug fix for one of my projects
+- [Check out my portfolio](https://xsherryhe.github.io/).
 
 ## Contact Me
 
 <div align="center">
-  <a href="mailto:xsherryhe.dev@gmail.com">
-    <img src="./images/icons/email-red.svg" alt="Email" width="50" height="50" />
-  </a>
-  <a href="https://www.linkedin.com/in/sherry-he-037942a7/">
-    <img src="images/icons/linkedin-red.svg" alt="LinkedIn" width="50" height="50" />
-  </a>
-  <a href="files/Sherry-He-Developer-Resume.pdf" download>
-    <img src="images/icons/resume-red.svg" alt="Resume" width="50" height="50" />
-  </a>
+  <a href="mailto:xsherryhe.dev@gmail.com" style="margin: 0 30px"><img src="./images/icons/email-red.svg" alt="Email" width="50" height="50"></a>
+  <a href="https://www.linkedin.com/in/sherry-he-037942a7/" style="margin: 0 30px"><img src="images/icons/linkedin-red.svg" alt="LinkedIn" width="50" height="50"></a>
+  <a href="files/Sherry-He-Developer-Resume.pdf" download style="margin: 0 30px"><img src="images/icons/resume-red.svg" alt="Resume" width="50" height="50"></a>
 </div>
 
 
