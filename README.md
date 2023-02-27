@@ -11,9 +11,9 @@
 ## Contact Me
 
 <div align="center">
-  <a href="mailto:xsherryhe.dev@gmail.com" style="margin: 0 30px"><img src="./images/icons/email-red.svg" alt="Email" width="50" height="50"></a>
-  <a href="https://www.linkedin.com/in/sherry-he-037942a7/" style="margin: 0 30px"><img src="images/icons/linkedin-red.svg" alt="LinkedIn" width="50" height="50"></a>
-  <a href="files/Sherry-He-Developer-Resume.pdf" download style="margin: 0 30px"><img src="images/icons/resume-red.svg" alt="Resume" width="50" height="50"></a>
+  <a href="mailto:xsherryhe.dev@gmail.com"><img src="./images/icons/email-red.svg" alt="Email" width="60" height="50"></a>
+  <a href="https://www.linkedin.com/in/sherry-he-037942a7/"><img src="images/icons/linkedin-red.svg" alt="LinkedIn" width="60" height="50"></a>
+  <a href="files/Sherry-He-Developer-Resume.pdf" download><img src="images/icons/resume-red.svg" alt="Resume" width="60" height="50"></a>
 </div>
 
 
