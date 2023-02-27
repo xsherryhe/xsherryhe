@@ -9,7 +9,7 @@
 
 ## Contact Me
 
-<div style="display: flex; justify-content: space-evenly">
+<div align="center">
   <a href="mailto:xsherryhe.dev@gmail.com">
     <img src="./images/icons/email-red.svg" alt="Email" width="50" height="50" />
   </a>
