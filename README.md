@@ -14,7 +14,7 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=xsherryhe&theme=rose-pine&background=EFEFEF&stroke=CAEBF2&ring=666666&border=CAEBF2&currStreakNum=FF3B3F&fire=FF3B3F&sideNums=FF3B3F&currStreakLabel=FF3B3F&sideLabels=FF3B3F&dates=666666" alt="GitHub Streak"></a>
 </div>
 
-### Contact Me
+## Contact Me
 
 <div align="center">
   <a href="mailto:xsherryhe.dev@gmail.com"><img src="./images/icons/email-red.svg" alt="Email" width="60" height="50"></a>
