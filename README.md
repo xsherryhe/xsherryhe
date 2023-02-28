@@ -99,7 +99,7 @@
         <a href="https://github.com/xsherryhe/shopping-cart"><img alt="Repo" src="https://img.shields.io/badge/Repo-caebf2?style=for-the-badge&logo=github&logoColor=4a4a4a"></a>
         <a href="https://xsherryhe.github.io/shopping-cart/"><img alt="Live" src="https://img.shields.io/badge/Live-FF3B3F?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik05LjUsM0E2LjUsNi41IDAgMCwxIDE2LDkuNUMxNiwxMS4xMSAxNS40MSwxMi41OSAxNC40NCwxMy43M0wxNC43MSwxNEgxNS41TDIwLjUsMTlMMTksMjAuNUwxNCwxNS41VjE0LjcxTDEzLjczLDE0LjQ0QzEyLjU5LDE1LjQxIDExLjExLDE2IDkuNSwxNkE2LjUsNi41IDAgMCwxIDMsOS41QTYuNSw2LjUgMCAwLDEgOS41LDNNOS41LDVDNyw1IDUsNyA1LDkuNUM1LDEyIDcsMTQgOS41LDE0QzEyLDE0IDE0LDEyIDE0LDkuNUMxNCw3IDEyLDUgOS41LDVaIiAvPjwvc3ZnPgo="></a>
         <p><strong>React.js, Jest, React Testing Library, CSS3, HTML5</strong></p>
-        <p>A board game shopping app in which users can browse and add items to a cart for purchase.</p>
+        <p>An online shopping app and cart for board games.</p>
       </div>
     </td>
   </tr>
