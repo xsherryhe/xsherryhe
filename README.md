@@ -28,7 +28,7 @@
   <tr>
     <td width="50%">
       <h3 align="center">Clonebook</h3>
-      <img alt="Clonebook preview" src="./images/clonebook.png" width="100%">
+      <a href="https://sleepy-springs-52383.herokuapp.com/"><img alt="Clonebook preview" src="./images/clonebook.png" width="100%"></a>
       <br>
       <br>
       <div align="center">
@@ -40,7 +40,7 @@
     </td>
     <td width="50%">
       <h3 align="center">Where's Everything?</h3>
-      <img alt="Where's Everything? preview" src="./images/wheres_everything.png" width="100%">
+      <a href="https://xsherryhe.github.io/wheres-waldo/"><img alt="Where's Everything? preview" src="./images/wheres_everything.png" width="100%"></a>
       <br>
       <br>
       <div align="center">
@@ -54,7 +54,7 @@
   <tr>
     <td width="50%">
       <h3 align="center">Weather App</h3>
-      <img alt="Weather App preview" src="./images/weather_app.png" width="100%">
+      <a href="https://xsherryhe.github.io/weather-app/"><img alt="Weather App preview" src="./images/weather_app.png" width="100%"></a>
       <br>
       <br>
       <div align="center">
@@ -66,7 +66,7 @@
     </td>
     <td width="50%">
       <h3 align="center">Space Donuts</h3>
-      <img alt="Space Donuts preview" src="./images/space_donuts.png" width="100%">
+      <a href="https://xsherryhe.github.io/memory-card-game/"><img alt="Space Donuts preview" src="./images/space_donuts.png" width="100%"></a>
       <br>
       <br>
       <div align="center">
@@ -80,7 +80,7 @@
   <tr>
     <td width="50%">
       <h3 align="center">Crepes on a Cloud</h3>
-      <img alt="The BoardWalk preview" src="./images/crepes_on_a_cloud.png" width="100%">
+      <a href="https://xsherryhe.github.io/restaurant-homepage/"><img alt="The BoardWalk preview" src="./images/crepes_on_a_cloud.png" width="100%"></a>
       <br>
       <br>
       <div align="center">
@@ -92,7 +92,7 @@
     </td>
     <td width="50%">
       <h3 align="center">The BoardWalk Shopping App</h3>
-      <img alt="The BoardWalk preview" src="./images/the_boardwalk_cropped.png" width="100%">
+      <a href="https://xsherryhe.github.io/shopping-cart/"><img alt="The BoardWalk preview" src="./images/the_boardwalk_cropped.png" width="100%"></a>
       <br>
       <br>
       <div align="center">
