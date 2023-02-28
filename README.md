@@ -3,10 +3,14 @@
 - I'm a developer whose interests lie in front-end and full-stack web development.
 - I have a background in education and linguistics. In these areas as well as in programming, I'm all about using research and systems thinking to piece together puzzles and solve problems.
 - I'm currently working on [an educational course-hosting website](https://github.com/xsherryhe/matter-of-course).
-- I'm **actively looking to collaborate**! Get in touch if you:
+- I'm **actively looking to collaborate**! [Get in touch](mailto:xsherryhe.dev@gmail.com) if you:
   - Are looking for contributors for your project
   - Have an idea, suggestion, or bug fix for one of my projects
 - [Check out my portfolio](https://xsherryhe.github.io/).
+
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=xsherryhe&theme=rose-pine&background=EFEFEF&stroke=CAEBF2&ring=666666&border=CAEBF2&currStreakNum=FF3B3F&fire=FF3B3F&sideNums=FF3B3F&currStreakLabel=FF3B3F&sideLabels=FF3B3F&dates=666666" alt="GitHub Streak"></a>
+</div>
 
 ## Contact Me
 
@@ -16,6 +20,15 @@
   <a href="files/Sherry-He-Developer-Resume.pdf" download><img src="images/icons/resume-red.svg" alt="Resume" width="60" height="50"></a>
 </div>
 
+<!-- blue icons >
+
+## Projects
+
+<!-- red icons >
+
+## Technology Stack
+
+<!-- blue icons >
 
 <!--
 **xsherryhe/xsherryhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
