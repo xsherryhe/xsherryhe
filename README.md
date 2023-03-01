@@ -127,7 +127,7 @@
 <br>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xsherryhe&layout=compact&bg_color=efefef&title_color=ff3b3f&text_color=666666&icon_color=ff3b3f&border_color=caebf2" alt="Top Languages">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xsherryhe&layout=compact&bg_color=efefef&title_color=ff3b3f&text_color=666666&icon_color=ff3b3f&border_color=caebf2" alt="Top Languages">
   </a>
 </div>
 
