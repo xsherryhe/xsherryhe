@@ -4,7 +4,11 @@
 
 - I'm a developer whose interests lie in front-end and full-stack web development.
 - I have a background in education and linguistics. In these areas as well as in programming, I'm all about using research and systems thinking to piece together puzzles and solve problems.
-- I'm currently working on [an educational course-hosting website](https://github.com/xsherryhe/matter-of-course).
+- Projects that I'm currently working on:
+  - [An educational course-hosting website](https://github.com/xsherryhe/matter-of-course)
+- Technologies that I'm currently learning:
+  - TypeScript
+  - Traditional and headless CMS using PHP
 - I'm **actively looking to collaborate**! [Get in touch](mailto:xsherryhe.dev@gmail.com) if you:
   - Are looking for contributors for your project
   - Have an idea, suggestion, or bug fix for one of my projects
