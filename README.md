@@ -6,6 +6,7 @@
 - I have a background in education and linguistics. In these areas as well as in programming, I'm all about using research and systems thinking to piece together puzzles and solve problems.
 - Projects that I'm currently working on:
   - [An educational course-hosting website](https://github.com/xsherryhe/matter-of-course)
+  - [A smart thesaurus app](https://github.com/xsherryhe/smart-synonyms)
 - Technologies that I'm currently learning:
   - TypeScript
   - Traditional and headless CMS using PHP
