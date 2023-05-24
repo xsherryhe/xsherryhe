@@ -7,9 +7,6 @@
 - Projects that I'm currently working on:
   - [An educational course-hosting website](https://github.com/xsherryhe/matter-of-course)
   - [A smart thesaurus app](https://github.com/xsherryhe/smart-synonyms)
-- Technologies that I'm currently learning:
-  - TypeScript
-  - Traditional and headless CMS using PHP
 - I'm **actively looking to collaborate**! [Get in touch](mailto:xsherryhe.dev@gmail.com) if you:
   - Are looking for contributors for your project
   - Have an idea, suggestion, or bug fix for one of my projects
